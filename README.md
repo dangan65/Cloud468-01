@@ -1,4 +1,4 @@
-# Cloud468-01
+ # Cloud468-01
 •	Alpine Linux
 o	Serves as the foundational Linux distro
 o	Fast startup time due to minimal size 
@@ -33,5 +33,3 @@ cloud-docker-project/
 ├── docker-compose.yml
 ├── README.md
 └── .gitignore
-
-<img width="468" height="614" alt="image" src="https://github.com/user-attachments/assets/23d321bf-6e4e-412a-9288-37c59be5ebc4" />
